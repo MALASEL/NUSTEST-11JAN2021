@@ -7,4 +7,6 @@ Some more dummy text.25 minutes until lunch.
 * docker - if time permits
 * handout reading assignments and homework.
 
-![](Screenshot 2021-01-10 at 6.19.07 PM)
+![](abc.png)
+
+![](https://raw.githubusercontent.com/hellojoechip/NUS-test-20210111/main/lavo2.png)
