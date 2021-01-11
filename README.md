@@ -5,3 +5,4 @@ Some more dummy text.25 minutes until lunch.
 * more Git
 * cloud with Gilbert
 * docker - if time permits
+* handout reading assignments and homework.
