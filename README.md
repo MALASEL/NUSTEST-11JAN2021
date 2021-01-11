@@ -6,3 +6,5 @@ Some more dummy text.25 minutes until lunch.
 * cloud with Gilbert
 * docker - if time permits
 * handout reading assignments and homework.
+
+![](Screenshot 2021-01-10 at 6.19.07 PM)
